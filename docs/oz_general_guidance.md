@@ -74,6 +74,30 @@ General preference: clean, readable sans-serif. Avoid decorative fonts. Kids wil
 
 ---
 
+## Back of the last page (standard every day)
+
+The flip side of the packet's last page always has exactly three large blocks, in this order:
+
+1. **Today's Accomplishments**
+2. **What's Up for Tomorrow**
+3. **Problems or Concerns**
+
+These are the same every day, every project — no instructions needed beyond the label. Blocks should be large (roughly equal thirds of the page). This is the primary nightly input for TedGy alongside the day's widget fills.
+
+At the bottom of the back page, in small print, include a rotating reminder to write legibly. Cycle through this list by day number:
+
+1. "Please print neatly. TedGy is slightly hard of hearing!"
+2. "Please print neatly. TedGy didn't bring its reading glasses today."
+3. "Please print neatly. TedGy's handwriting decoder is on the fritz."
+4. "Please print neatly. TedGy squints at chicken scratch."
+5. "Please print neatly. TedGy's vision is 20/200 on a good day."
+6. "Please print neatly. TedGy promises it's trying its best."
+7. "Please print neatly. TedGy once misread 'Lincoln' as 'Linkedin'."
+
+Add more as inspiration strikes. Keep them short, gentle, and kid-appropriate.
+
+---
+
 ## Things not yet decided
 
 - Exact fonts
